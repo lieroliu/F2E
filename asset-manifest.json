@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lieroliu/F2E/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/lieroliu/F2E/static/js/main.191adead.chunk.js",
+    "main.js.map": "/lieroliu/F2E/static/js/main.191adead.chunk.js.map",
+    "runtime-main.js": "/lieroliu/F2E/static/js/runtime-main.dea01908.js",
+    "runtime-main.js.map": "/lieroliu/F2E/static/js/runtime-main.dea01908.js.map",
+    "static/js/2.d8ae0d48.chunk.js": "/lieroliu/F2E/static/js/2.d8ae0d48.chunk.js",
+    "static/js/2.d8ae0d48.chunk.js.map": "/lieroliu/F2E/static/js/2.d8ae0d48.chunk.js.map",
+    "static/js/3.303ddf40.chunk.js": "/lieroliu/F2E/static/js/3.303ddf40.chunk.js",
+    "static/js/3.303ddf40.chunk.js.map": "/lieroliu/F2E/static/js/3.303ddf40.chunk.js.map",
+    "index.html": "/lieroliu/F2E/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/lieroliu/F2E/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d8ae0d48.chunk.js.LICENSE.txt": "/lieroliu/F2E/static/js/2.d8ae0d48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dea01908.js",
+    "static/js/2.d8ae0d48.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.191adead.chunk.js"
+  ]
+}
